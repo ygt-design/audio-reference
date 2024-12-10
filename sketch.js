@@ -3,7 +3,7 @@ let fft; // For frequency analysis
 let amplitude; // For amplitude analysis
 
 function preload() {
-  sound = loadSound("../assets/audio/Fall Murders Summer DEMO MAS1.mp3"); // Load your audio file
+  sound = loadSound("./assets/audio/Fall Murders Summer DEMO MAS1.mp3"); // Load your audio file
 }
 
 function setup() {
